@@ -1,0 +1,23 @@
+上班❗(இдஇ; )
+
+Goodmorning~按时吃早饭午饭晚饭。今天也是元气满满的一天！Ｏ(≧∇≦)Ｏ 
+
+{{date.DATA}} 
+地区：{{region.DATA}} ʕ•ᴥ•ʔ 
+天气：{{weather.DATA}} 🌌 
+
+最低气温：{{min_temp.DATA}} 🌈 
+
+最高气温：{{max_temp.DATA}} 🌈 
+
+当前气温：{{temp.DATA}} 🍹 
+
+日出时间：{{sunrise.DATA}}🌅 
+
+日落时间：{{sunset.DATA}}🌇  
+
+今日建议：{{proposal.DATA}}
+
+{{note_en.DATA}} 
+
+{{note_ch.DATA}}
